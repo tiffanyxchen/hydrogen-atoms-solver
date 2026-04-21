@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+
+# Output files
+output/
+*.mp4
+*.gif
+*.png
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# C++ build artifacts (since you may use C++)
+*.o
+*.so
+*.out
+
+# Misc
+*.swp
